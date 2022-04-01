@@ -5,7 +5,7 @@
   "main": "exemplo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node ./3-Abstracao-a-Entidade/oo-pilar-da-abstracao-reflexao.ts"
+    "start": "ts-node ./4-Pilar-do-Encapsulamento/oo-pilar-do-encapsulamento.ts"
   },
   "keywords": [],
   "author": "",
