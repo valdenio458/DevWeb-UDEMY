@@ -5,7 +5,7 @@
   "main": "exemplo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node ./4-Pilar-do-Encapsulamento/oo-pilar-do-encapsulamento.ts"
+    "start": "ts-node ./5-Pilar-da-Heranca/oo-pilar-da-heranca.ts"
   },
   "keywords": [],
   "author": "",
