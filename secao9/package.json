@@ -5,7 +5,7 @@
   "main": "exemplo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node ./5-Pilar-da-Heranca/oo-pilar-da-heranca.ts"
+    "start": "ts-node ./6-Pilar-do-Polimorfismo/oo-pilar-do-polimorfismo.ts"
   },
   "keywords": [],
   "author": "",

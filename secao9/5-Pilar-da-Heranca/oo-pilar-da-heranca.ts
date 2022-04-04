@@ -20,7 +20,7 @@ class Cachorro extends Animal {
   public orelhas: string;
 
   constructor(orelhas: string) {
-    super('marrom', 1, 5);
+    super('marrom', 1, 500);
     this.orelhas = orelhas;
   }
   //* métodos
@@ -38,7 +38,7 @@ class Passaro extends Animal{
   public bico: string;
 
   constructor(bico: string) {
-    super('branco', 0.5, 2);
+    super('branco', 0.5, 200);
     this.bico = bico;
   }
   //* métodos
@@ -50,8 +50,7 @@ class Passaro extends Animal{
 
 class Papagaio extends Passaro{
   //* atributos
-    public sabeFalar: boolean;
-  
+    public sabeFalar: boolean;  
 
   constructor(sabeFalar: boolean) {
     super('pequeno');    
